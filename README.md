@@ -47,6 +47,22 @@ Statement: Significant change in personal development direction
 
 因为这是我个人博客，除了学习外，可能会说一些其他事情，包括生活、兴趣甚至牢骚。所以原则上，这个博客只在我学习阶段做商业咨询的笔记，语言为中文（AI/ChatGPT 建议我谈一些思考过程，我会酌情书写）。 我未来换了地方，会新建一个专门的商业咨询博客，用于我学习后的正式项目或模拟项目，以及行业报告、分析等内容书写。预期目标语言为英文、日文和韩语（目前会依赖翻译软件）。
 
+个人资料：
 
+Name: 郄磊 ( Qie Lei ) / Used English name: Chris Qie
+
+Now Live: Lang Fang , Hebei , China
+
+Email: qielei@gmail.com
+
+Personal Blog: qielei.com
+
+Linkedin:
+
+Github: https://github.com/chrisqie/main/
+
+Medium: medium.com/@qielei
+
+Bluesky: qielei.bsky.social
 
 
