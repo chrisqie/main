@@ -55,7 +55,7 @@ Now Live: Lang Fang , Hebei , China
 
 Email: qielei@gmail.com
 
-Personal Blog: <a href=https://www.qiele.com>qielei.com</a>
+Personal Blog: <a href=https://www.qielei.com>qielei.com</a>
 
 Linkedin: <a href=https://www.linkedin.com/in/chrisqie>https://www.linkedin.com/in/chrisqie</a>
 
