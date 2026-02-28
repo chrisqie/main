@@ -1,7 +1,15 @@
 # main
 郄磊的商业分析理论和作品 / Qie Lei’s business analysis theories and works  （前期可能写一些学习笔记，后期可能写一些分析研究报告）
 
-所有文章当前均遵循  <a href=https://creativecommons.org/licenses/by-nc-nd/4.0/>CC BY-NC-ND 4.0</a> 协议。
+Copyright Notice
+
+© 2026 Qie Lei (郄磊). All rights reserved.
+
+This repository is for archival and proof of authorship only.
+
+No part of this work may be reproduced, distributed, or used in any form without explicit permission from the author.
+
+For authorized use, please contact: qielei@gmail.com
 
 ------------
 <b>声明：个人发展方向大幅更改</b>
