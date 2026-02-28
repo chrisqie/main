@@ -55,14 +55,14 @@ Now Live: Lang Fang , Hebei , China
 
 Email: qielei@gmail.com
 
-Personal Blog: qielei.com
+Personal Blog: <a href=https://www.qiele.com>qielei.com</a>
 
-Linkedin: https://www.linkedin.com/in/chrisqie
+Linkedin: <a href=https://www.linkedin.com/in/chrisqie>https://www.linkedin.com/in/chrisqie</a>
 
-Github: https://github.com/chrisqie/main/
+Github: <a href=https://github.com/chrisqie/main/>https://github.com/chrisqie/main/</a>
 
-Medium: medium.com/@qielei
+Medium: <a href=https://medium.com/@qielei>medium.com/@qielei</a>
 
-Bluesky: qielei.bsky.social
+Bluesky: <a href=https://qielei.bsky.social>qielei.bsky.social</a>
 
 
