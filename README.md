@@ -57,7 +57,7 @@ Email: qielei@gmail.com
 
 Personal Blog: qielei.com
 
-Linkedin:
+Linkedin: https://www.linkedin.com/in/chrisqie
 
 Github: https://github.com/chrisqie/main/
 
