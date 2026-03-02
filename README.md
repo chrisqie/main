@@ -11,6 +11,16 @@ No part of this work may be reproduced, distributed, or used in any form without
 
 For authorized use, please contact: qielei@gmail.com
 
+-------------
+
+<font color=red>寻找国外工作机会
+
+looking for a job abroad
+
+海外での仕事の機会を見つける
+
+해외 취업 기회를 찾아보세요</font>
+
 ------------
 <b>声明：个人发展方向大幅更改</b>
 
