@@ -13,13 +13,13 @@ For authorized use, please contact: qielei@gmail.com
 
 -------------
 
-<font color=red>寻找国外工作机会
+<font color=red>我在寻找国外工作机会
 
-looking for a job abroad
+I am looking for a job abroad
 
-海外での仕事の機会を見つける
+海外での仕事の機会を探しています
 
-해외 취업 기회를 찾아보세요</font>
+해외 취업 기회를 찾고 있어요</font>
 
 ------------
 <b>声明：个人发展方向大幅更改</b>
