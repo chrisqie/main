@@ -71,6 +71,6 @@ Linkedin: <a href=https://www.linkedin.com/in/chrisqie>https://www.linkedin.com/
 
 Github: <a href=https://github.com/chrisqie/main/>https://github.com/chrisqie/main/</a>
 
-Bluesky: <a href=https://qielei.bsky.social>qielei.bsky.social</a>
+X: <a href=https://x.com/chrisqie>https://x.com/chrisqie</a>
 
 
