@@ -35,6 +35,8 @@
  <img src=https://github.com/chrisqie/main/blob/main/pic/image_1772747305644_ztzhup.png>
  image by LLM : Google Nano banana via kie.ai
 
+ 
+
 二，日本AI产业在国家行业所处的位置
 
 日本AI的落后，有自身独特的原因，因为军工产业需求作为AI产业需求顶尖需求，发育不充分，可能会影响顶尖日本AI技术发展的动力，进而无法形成有效的拉动效应，这部分是国家策略，而非商业策略适合探讨的，暂时不多说。
