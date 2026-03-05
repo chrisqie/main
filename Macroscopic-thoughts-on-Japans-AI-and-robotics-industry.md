@@ -32,7 +32,7 @@
 
 总结：在追求抗拒风险的保守主义（攻少守多），比如攻多守少占便宜的时候，就需要调整一下自身的比例，达到一个最优值，而只要自身相对的抗风险能力比对方要强，则全部风险都由那些相对不抗风险能力弱的国家来承担，这和绝对风险无关，其中的空间，是很大的，日本应该充分利用。
 
-<img src=[https://github.com/chrisqie/main/blob/main/pic/Image_20260306_040344.jpg](https://github.com/chrisqie/main/blob/main/pic/image_1772747305644_ztzhup.png)>
+ <img src=https://github.com/chrisqie/main/blob/main/pic/Image_20260306_040344.jpg>
 
 二，日本AI产业在国家行业所处的位置
 
