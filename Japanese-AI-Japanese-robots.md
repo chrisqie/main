@@ -6,6 +6,9 @@
 
 3，比例
 
+<img src=https://github.com/chrisqie/main/blob/main/pic/1772827436466-rwne7dckcup%20(1).png>
+image by LLM : Google Nano Banana Pro via kie.ai
+
 ### 日本的AI
 
 日本AI产业，如果秉持传统的工业制造领域和消费品定位的高端化、高附加值为基础，以开放、吸纳和创新引领，保持简约纯粹的特色，我的看法是：
