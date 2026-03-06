@@ -1,4 +1,4 @@
-# 日本AI和机器人产业的宏观思考
+# 日本AI和机器人产业的宏观思考 （待修改）
 
 ##### Macroscopic thoughts on Japan's AI and robotics industry
 
