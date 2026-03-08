@@ -1,4 +1,6 @@
-# 本车企与中国车企竞争的中医辨证
+# 日本车企与中国车企竞争的中医辨证
+
+<img src=https://github.com/chrisqie/main/blob/main/pic/Yin_and_Yang_symbol.svg.png>
 
 日本之前是表面阳虚，实际阴虚。中国是阳强（也是毛病）。
 
