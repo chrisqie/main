@@ -1,3 +1,9 @@
+English : https://www.qielei.com/2026/03/10/japanese-ai-japanese-robots-eng/
+
+日本語 : https://www.qielei.com/2026/03/10/japanese-ai-japanese-robots-ja/
+
+한국인 : https://www.qielei.com/2026/03/10/japanese-ai-japanese-robots-kr/
+
 提纲：
 
 1，日本的AI
