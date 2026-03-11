@@ -1,3 +1,9 @@
+English :  https://www.qielei.com/2026/03/10/ai-and-global-small-business-eng/
+
+日本語 : https://www.qielei.com/2026/03/10/ai-and-global-small-business-ja/
+
+한국인 : https://www.qielei.com/2026/03/10/ai-and-global-small-business-kr/
+
 # AI和全球中小企业
 
 插一篇文章，ChatGPT拟的题目：
