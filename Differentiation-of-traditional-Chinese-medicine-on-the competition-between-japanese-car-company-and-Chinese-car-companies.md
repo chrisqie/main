@@ -8,7 +8,7 @@ English :  https://www.qielei.com/2026/03/10/differentiation-of-traditional-chin
 
 <img src=https://github.com/chrisqie/main/blob/main/pic/Yin_and_Yang_symbol.svg.png>
 
-Taiji ( Chinese philosophy / Taoism ) - image by wikipedia
+Taiji ( Chinese philosophy / Taoism / Dao ) - image by wikipedia
 
 在中医理论中，阳虚与阴虚的调理方法不同。例如常见的思路是：阳虚偏向补阳，阴虚偏向滋阴。如果用一个简单比例来做类比，可以理解为某种“1:4”的补充结构——即补一份阳，同时增加四份阴，以维持系统平衡。
 
