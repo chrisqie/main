@@ -1,3 +1,7 @@
+English: https://www.qielei.com/2026/03/14/created-and-using-a-wordpress-plugin-eng/
+日本語: https://www.qielei.com/2026/03/14/created-and-using-a-wordpress-plugin-ja/
+한국인: https://www.qielei.com/2026/03/14/created-and-using-a-wordpress-plugin-kr/
+
 已经提交wordpress插件仓库，正在等待审核
 
 <img src=https://github.com/chrisqie/main/blob/main/pic/chrome_tcRUgr1s4A.png>
