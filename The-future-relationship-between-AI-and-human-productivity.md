@@ -1,5 +1,7 @@
 English:  https://www.qielei.com/2026/03/15/the-future-relationship-between-ai-and-human-productivity-eng/
+
 日本語:  https://www.qielei.com/2026/03/15/the-future-relationship-between-ai-and-human-productivity-ja/
+
 한국인:  https://www.qielei.com/2026/03/15/the-future-relationship-between-ai-and-human-productivity-kr/
 
 AI和人类生产力未来的关系
