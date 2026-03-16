@@ -1,8 +1,11 @@
 ## 包子客的经营分析
 
 <img src=https://github.com/chrisqie/main/blob/main/pic/banner.png>
-<img src=https://github.com/chrisqie/main/blob/main/pic/chrome_GhgWYXgNUN.png>
+
 <img src=https://github.com/chrisqie/main/blob/main/pic/chrome_IXUXItyg9v.png>
+
+<img src=https://github.com/chrisqie/main/blob/main/pic/chrome_GhgWYXgNUN.png>
+
 
 商业分析图（我根据个人体验提的策略，Xmind AI生成的）：
 
