@@ -6,7 +6,11 @@ English: https://www.qielei.com/2026/03/18/baozike-business-analysis-en/
 
 한국인:  https://www.qielei.com/2026/03/18/baozike-business-analysis-kr/
 
+Translated by Google, DeepL and me
+
 <img src=https://github.com/chrisqie/main/blob/main/pic/banner.png>
+
+图片来源：baozike.com
 
 商业分析图（我根据个人体验提的策略，<a href=https://www.xmind.com/>Xmind</a> AI生成的）：
 
