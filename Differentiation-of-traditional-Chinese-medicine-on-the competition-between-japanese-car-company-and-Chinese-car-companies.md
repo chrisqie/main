@@ -6,6 +6,8 @@ English :  https://www.qielei.com/2026/03/10/differentiation-of-traditional-chin
 
 한국인 :  https://www.qielei.com/2026/03/10/differentiation-of-traditional-chinese-medicine-on-the-competition-between-japanese-car-company-and-chinese-car-companies-kr/
 
+Translated by <a href=https://www.deepl.com>DeepL</a>
+
 <img src=https://github.com/chrisqie/main/blob/main/pic/Yin_and_Yang_symbol.svg.png>
 
 Taiji ( Chinese philosophy / Taoism / Dao ) - image from wikipedia
