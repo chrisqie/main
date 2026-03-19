@@ -1,8 +1,10 @@
-English : https://www.qielei.com/2026/03/10/japanese-ai-japanese-robots-eng/
+English : https://www.qielei.com/2026/03/10/japanese-ai-japanese-robots-en/
 
 日本語 : https://www.qielei.com/2026/03/10/japanese-ai-japanese-robots-ja/
 
 한국인 : https://www.qielei.com/2026/03/10/japanese-ai-japanese-robots-kr/
+
+Translated by Google
 
 提纲：
 
