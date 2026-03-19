@@ -1,3 +1,9 @@
+English : https://www.qielei.com/2026/03/19/user-learning-curve-and-user-psychology-en/
+
+日本語:  https://www.qielei.com/2026/03/19/user-learning-curve-and-user-psychology-ja/
+
+한국인 : https://www.qielei.com/2026/03/19/user-learning-curve-and-user-psychology-kr/
+
 现在IT领域有一种趋势，就是平台（产品）让用户学习成本上升，当用户迈过”艰苦的学习阶段“后，会在心理上得到一种”下坡“式的释放，估计是一种多巴胺的释放，让用户对产品提升依赖性。
 
 沉默成本的回收，会给用户带来一定快感，但容易让用户失去理性。为了回收沉默成本，而不顾产品本身优劣与否的事实。
