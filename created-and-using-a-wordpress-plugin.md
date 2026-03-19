@@ -1,4 +1,4 @@
-English: https://www.qielei.com/2026/03/14/created-and-using-a-wordpress-plugin-eng/
+English: https://www.qielei.com/2026/03/14/created-and-using-a-wordpress-plugin-en/
 
 日本語: https://www.qielei.com/2026/03/14/created-and-using-a-wordpress-plugin-ja/
 
