@@ -1,9 +1,10 @@
-English: https://www.qielei.com/2026/03/11/a-corporate-marketing-app-planned/
+English: https://www.qielei.com/2026/03/11/a-corporate-marketing-app-planned-en/
 
 日本語: https://www.qielei.com/2026/03/11/a-corporate-marketing-app-planned-ja/
 
 한국인:  https://www.qielei.com/2026/03/11/a-corporate-marketing-app-planned-kr/
 
+<img src=https://github.com/chrisqie/main/blob/main/pic/mfm.png>
 
 以下是策划案
 
