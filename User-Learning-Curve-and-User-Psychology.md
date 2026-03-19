@@ -4,6 +4,8 @@ English : https://www.qielei.com/2026/03/19/user-learning-curve-and-user-psychol
 
 한국인 : https://www.qielei.com/2026/03/19/user-learning-curve-and-user-psychology-kr/
 
+Translated by <a href=https://www.deepl.com>DeepL</a>
+
 现在IT产品的设计，尤其是UI和UX设计越来越糟糕。
 
 更多产品，像短视频，SAAS等，更关注对用户的分析，利用人性的弱点，进行设计，而忽略了产品本身为社会创造的价值、用户体验和对人性的增益。
@@ -21,4 +23,4 @@ English : https://www.qielei.com/2026/03/19/user-learning-curve-and-user-psychol
 
 郄磊 ( Qie Lei )
 
-2026.3.19 AM 9
+2026.3.19 AM 9  修改于 AM 11
