@@ -20,6 +20,8 @@ English : https://www.qielei.com/2026/03/19/user-learning-curve-and-user-psychol
 
 拒绝吃屎，拒绝这种虐待用户的产品，谁向你推荐用noti**，就是向你推荐吃大便，请远离，因为这种人多数有被虐倾向。全球已经有上亿人吃了大便（发达国家只有欧洲吃的少一些），希望能及时醒悟。
 
+我自省，也希望所有人自省。
+
 郄磊 ( Qie Lei )
 
 2026.3.19 AM 9
