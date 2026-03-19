@@ -1,8 +1,10 @@
-English :  https://www.qielei.com/2026/03/10/ai-and-global-small-business-eng/
+English :  https://www.qielei.com/2026/03/10/ai-and-global-small-business-en/
 
 日本語 : https://www.qielei.com/2026/03/10/ai-and-global-small-business-ja/
 
 한국인 : https://www.qielei.com/2026/03/10/ai-and-global-small-business-kr/
+
+Translated by Google
 
 # AI和全球中小企业
 
