@@ -4,6 +4,7 @@ English:  https://www.qielei.com/2026/03/15/the-future-relationship-between-ai-a
 
 한국인:  https://www.qielei.com/2026/03/15/the-future-relationship-between-ai-and-human-productivity-kr/
 
+Translated by <a href=https://www.deepl.com>DeepL</a> 
 
 ## AI和人类生产力未来的关系
 
