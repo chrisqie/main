@@ -69,6 +69,9 @@ Personal Blog: <a href=https://www.qielei.com>qielei.com</a>
 
 Linkedin: <a href=https://www.linkedin.com/in/chrisqie>https://www.linkedin.com/in/chrisqie</a>
 
+Bluesky: <a href=https://qielei.bsky.social>https://qielei.bsky.social</a>
+
+
 Github: <a href=https://github.com/chrisqie/main/>https://github.com/chrisqie/main/</a>
 
 X: <a href=https://x.com/chrisqie>https://x.com/chrisqie</a>
