@@ -12,6 +12,8 @@ Translated by Google, DeepL and me
 
 图片来源：baozike.com
 
+包子客是一家主打健康卫生、以中国传统美食”包子“为经营起点的中国北方（当前）连锁餐厅。
+
 商业分析图（我根据个人体验提的策略，<a href=https://www.xmind.com/>Xmind</a> AI生成的）：
 
 <img src=https://github.com/chrisqie/main/blob/main/pic/baozike.png>
