@@ -7,17 +7,15 @@ English: https://www.qielei.com/2026/03/14/created-and-using-a-wordpress-plugin-
 Translated by Google
 
 
-## (当前1.0.0版本存在很多问题，我已经停止使用，不推荐使用)
-
 
 
 已经提交wordpress插件仓库，正在等待审核
 
-<img src=https://github.com/chrisqie/main/blob/main/pic/chrome_tcRUgr1s4A.png>
+<img src=https://github.com/chrisqie/main/blob/main/pic/chrome_nQ1RU1vC1z.png>
 
-插件名字：
+插件名字已经改为：
 
-    Real Space and Enter
+    Real Editor Space
 
 插件的作用：
 
