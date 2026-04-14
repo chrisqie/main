@@ -15,4 +15,4 @@ English:  https://www.qielei.com/2026/04/15/a-response-to-the-stars-of-the-milky
 
 郄磊 ( Qie Lei – Qie is my surname )
 
-2026年4月15日 AM 1.39 UTC+8
+2026年4月15日 AM 1.39 UTC+8  on earth
