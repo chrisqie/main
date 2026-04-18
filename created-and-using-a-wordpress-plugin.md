@@ -9,13 +9,16 @@ Translated by Google
 
 
 
-已经提交wordpress插件仓库，正在等待审核
 
 <img src=https://github.com/chrisqie/main/blob/main/pic/chrome_nQ1RU1vC1z.png>
 
 插件名字已经改为：
 
     Real Editor Space
+
+下载地址：
+
+<a href=https://wordpress.org/plugins/real-space-and-enter/>https://wordpress.org/plugins/real-space-and-enter/</a>
 
 插件的作用：
 
